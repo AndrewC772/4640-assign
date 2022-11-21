@@ -25,8 +25,8 @@ This should create and run 2 droplets tagged "web-server" within the same VPC ru
 
 1. run terraform init
 2. run terraform apply once all the above is completed
-3. It will ask for an API key from digital ocean if you haven't set terraform.tfvars
-4. Once entered it will create the web servers, loadbalancer, postgres database cluster, and their accompanying firewalls.
+3. It will ask for an API key from digital ocean if you haven't sourced the .env or set terraform.tfvars
+4. Once entered it will create the web servers, load balancer, postgres database cluster, and their accompanying firewalls.
 
 
 # Project Resources should appear as below when completed
