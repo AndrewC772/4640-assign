@@ -30,7 +30,7 @@ This should create and run 2 droplets tagged "web-server" within the same VPC ru
 
 
 # Project Resources should appear as below when completed
-It should appear as below once completed
+Resources created when project created.
 ![Alt text](./images/created-resources.png "Created VM and resources")
 
 # Database Connection Image
@@ -54,5 +54,5 @@ The following are screenshots of terraform apply:
 ![Alt text](./images/terraform-apply-6.png "Terraform apply part 6")
 
 # Bastion Firewall
-It should appear as below once completed
+Firewall settings for bastion
 ![Alt text](./images/bastion-firewall.png "Bastion Firewall settings")
