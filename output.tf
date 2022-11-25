@@ -10,3 +10,7 @@ output "bastion_ip"{
 output "load_balancer_ip"{
     value = digitalocean_loadbalancer.http-loadbalancer.ip
 }
+
+output "database_uri"{
+    value = digitalocean_database_cluster.postgres-web.uri
+}
