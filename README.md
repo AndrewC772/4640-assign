@@ -56,3 +56,6 @@ The following are screenshots of terraform apply:
 # Bastion Firewall
 Firewall settings for bastion
 ![Alt text](./images/bastion-firewall.png "Bastion Firewall settings")
+
+# Output
+![image](https://user-images.githubusercontent.com/28554795/204073468-76772010-aa56-4e57-be56-e977fde35614.png)
